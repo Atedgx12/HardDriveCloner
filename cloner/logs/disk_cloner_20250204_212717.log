@@ -1,0 +1,10 @@
+2025-02-04 21:27:17,060 - INFO - Python Version: 3.9.6 (tags/v3.9.6:db3ff76, Jun 28 2021, 15:26:21) [MSC v.1929 64 bit (AMD64)]
+2025-02-04 21:27:17,061 - INFO - Platform: win32
+2025-02-04 21:27:17,061 - INFO - Working Directory: C:\Users\Owner\OneDrive\Music\Documents\cloner
+2025-02-04 21:27:17,061 - INFO - Starting application
+2025-02-04 21:27:17,063 - DEBUG - Importing dependencies after admin check
+2025-02-04 21:27:17,118 - DEBUG - Checking dependencies
+2025-02-04 21:27:17,974 - DEBUG - Creating main window
+2025-02-04 21:27:18,014 - DEBUG - Configuring styles
+2025-02-04 21:27:18,014 - DEBUG - Initializing application (DiskClonerApp)
+2025-02-04 21:27:18,279 - INFO - Application initialized successfully, entering main event loop
